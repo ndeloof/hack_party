@@ -1,4 +1,4 @@
-# Test 1
+# Test 1 [test1.sh]
 
  - Plain official hypriot-rpi-20151004-132414.img
  - tmpfs for `/var/lib/docker` (to make test faster)
