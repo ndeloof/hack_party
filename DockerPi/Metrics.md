@@ -7,3 +7,15 @@
  - 64Mb swap file [script](swap.sh)
   
 results:  
+
+# Test 2
+
+same as Test 1 + [boot](conf/boot) tweaks (need to reboot)
+
+results:
+
+# Test 3
+
+same as Test 2 + [sysctl](etc/sysctl.d) tweaks
+
+results:  
